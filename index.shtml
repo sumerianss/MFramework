@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="favicon.ico">
+<meta name="author" content="迈智森">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title></title>
+<!--#include file="_meta.html"-->
+</head>
+<body>
+<!--#include file="_header.html"-->
+此处是内容
+<!--#include file="_footer.html"-->
+</body>
+</html>
